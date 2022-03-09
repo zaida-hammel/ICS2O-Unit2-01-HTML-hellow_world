@@ -1,0 +1,11 @@
+.mdl-layout__content {
+  padding-left: 15pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
+}
+
+p {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 2.5rem;
+}
