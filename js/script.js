@@ -1,6 +1,8 @@
-// Created by: Zaida Hammel
-// Created on: March 2021
-// This file contains the JS functions for index.html
+/** 
+*  Created by: Zaida Hammel
+*  Created on: March 2021
+*  This file contains the JS functions for index.html
+**/
 
 function myButtonClicked() {
   // this function shows "Hello, World!"
